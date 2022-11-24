@@ -1,0 +1,17 @@
+body {
+    background-color: #4076bc;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+  }
+
+.content2 {
+    outline: 5px dotted black;
+    margin-left: auto;
+    margin-right: auto;
+}
